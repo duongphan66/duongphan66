@@ -25,7 +25,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <td><a href="ｈttps://en.wikipedia.org/wiki/Ho_Chi_Minh_City">VIETＮＡＭ</a></td>
  <td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">Ｖｉｅｔ　Ｎａｍ</a></td>
- <td><a href="[ｈttps://en.wikipedia.org/wiki/Ho_Chi_Minh_City](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City)">其他</a></td>
+ <td><a href="https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%BF%97%E6%98%8E%E5%B8%82">Ｖｉｅｔ　Ｎａｍ</a></td>
  <td>nguyen thi thu hang</td>
  </tr>
 </table><br>
